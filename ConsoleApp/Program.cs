@@ -1,0 +1,1 @@
+﻿ConsoleApp.Design_Patterns.Command.Main.main();
