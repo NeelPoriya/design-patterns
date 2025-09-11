@@ -2,12 +2,13 @@
 
 namespace ConsoleApp.Problems.Parking_Lot.Models
 {
-    class ParkingSpot
+    public class ParkingSpot
     {
         private readonly string id = "";
         private readonly VehicleSize size;
         private bool isOccupied;
         private Vehicle? parkedVehicle;
+        private static readonly object lockObject = new object();
 
         public ParkingSpot(string id, VehicleSize size)
         {
@@ -33,5 +34,35 @@ namespace ConsoleApp.Problems.Parking_Lot.Models
 
             return false;
         }
+
+        public bool IsAvailable()
+        {
+            return !isOccupied;
+        }
+
+        public VehicleSize GetSpotSize()
+        {
+            return size;
+        }
+
+        public void ParkVehicle(Vehicle vehicle)
+        {
+            lock (lockObject)
+            {
+                parkedVehicle = vehicle;
+                isOccupied = true;
+            }
+        }
+
+        public void UnparkVehicle()
+        {
+            lock (lockObject)
+            {
+                parkedVehicle = null;
+                isOccupied = false;
+            }
+        }
+
+        public string GetId() { return id; }
     }
 }

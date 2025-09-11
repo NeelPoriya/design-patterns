@@ -1,8 +1,8 @@
 ﻿using ConsoleApp.Problems.Parking_Lot.Models;
 
-namespace ConsoleApp.Problems.Parking_Lot.Interface
+namespace ConsoleApp.Problems.Parking_Lot.Interface.Parking
 {
-    interface IParkingStrategy
+    public interface IParkingStrategy
     {
         ParkingSpot? FindSpot(List<ParkingLevel> floors, Vehicle vehicle);
     }

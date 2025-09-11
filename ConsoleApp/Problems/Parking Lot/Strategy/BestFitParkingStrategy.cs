@@ -1,4 +1,4 @@
-﻿using ConsoleApp.Problems.Parking_Lot.Interface;
+﻿using ConsoleApp.Problems.Parking_Lot.Interface.Parking;
 using ConsoleApp.Problems.Parking_Lot.Models;
 
 namespace ConsoleApp.Problems.Parking_Lot.Strategy

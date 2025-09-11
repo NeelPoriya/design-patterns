@@ -2,7 +2,7 @@
 
 namespace ConsoleApp.Problems.Parking_Lot.Models
 {
-    abstract class Vehicle
+    public abstract class Vehicle
     {
         protected readonly VehicleSize vehicleSize;
         protected readonly string licenseNumber = "";

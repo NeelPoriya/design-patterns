@@ -27,3 +27,4 @@ C:\Users\neelporiya\Source\Repos\design-patterns\ConsoleApp\obj\Debug\net9.0\ref
 C:\Users\neelporiya\Source\Repos\design-patterns\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
 C:\Users\neelporiya\Source\Repos\design-patterns\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\neelporiya\Source\Repos\design-patterns\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
+Q:\source\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
