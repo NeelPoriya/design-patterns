@@ -1,1 +1,1 @@
-﻿ConsoleApp.Design_Patterns.Command.Main.main();
+﻿ConsoleApp.Problems.Parking_Lot.Main.main();

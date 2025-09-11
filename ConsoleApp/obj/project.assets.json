@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\neelporiya\\Source\\Repos\\design-patterns\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\neelporiya\\source\\repos\\design-patterns\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\neelporiya\\Source\\Repos\\design-patterns\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\neelporiya\\source\\repos\\design-patterns\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\neelporiya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\neelporiya\\Source\\Repos\\design-patterns\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\neelporiya\\source\\repos\\design-patterns\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,24 +67,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[9.0.9, 9.0.9]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[9.0.9, 9.0.9]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[9.0.9, 9.0.9]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[9.0.9, 9.0.9]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
