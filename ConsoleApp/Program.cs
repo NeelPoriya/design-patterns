@@ -1,1 +1,1 @@
-﻿ConsoleApp.Problems.StackOverflow.Main.main();
+﻿ConsoleApp.Problems.VendingMachine.Main.main();
