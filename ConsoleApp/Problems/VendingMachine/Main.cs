@@ -28,6 +28,7 @@ namespace ConsoleApp.Problems.VendingMachine
             vendingMachine.DispenseItem();
 
             vendingMachine.SelectItem(item2.GetCode());
+            vendingMachine.InsertCoin(Coin.DIME);
         }
     }
 }

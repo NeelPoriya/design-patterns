@@ -16,5 +16,10 @@ namespace ConsoleApp.Problems.VendingMachine.Models
         public string GetName() => name;
         public int GetPrice() => price;
         public string GetCode() => code;
+
+        public override string ToString()
+        {
+            return $"Item({name}, {code}, {price})";
+        }
     }
 }

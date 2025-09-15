@@ -1,1 +1,1 @@
-﻿ConsoleApp.Problems.VendingMachine.Main.main();
+﻿ConsoleApp.Problems.LoggingFramework.Main.main();
