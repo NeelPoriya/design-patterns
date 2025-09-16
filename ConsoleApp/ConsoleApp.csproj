@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="Problems\TaskManagementSystem\requirements.md" />
+    <Compile Include="Problems\TaskManagementSystem\TaskManagementSystem.mmd" />
+  </ItemGroup>
+
 </Project>
