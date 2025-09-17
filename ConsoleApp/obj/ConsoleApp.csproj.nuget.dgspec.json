@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\neelporiya\\source\\repos\\design-patterns\\ConsoleApp\\ConsoleApp.csproj": {}
+    "q:\\source\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\neelporiya\\source\\repos\\design-patterns\\ConsoleApp\\ConsoleApp.csproj": {
+    "q:\\source\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neelporiya\\source\\repos\\design-patterns\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "q:\\source\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\neelporiya\\source\\repos\\design-patterns\\ConsoleApp\\ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\neelporiya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neelporiya\\source\\repos\\design-patterns\\ConsoleApp\\obj\\",
+        "projectPath": "q:\\source\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "Q:\\.tools\\.nuget\\packages\\",
+        "outputPath": "q:\\source\\ConsoleApp\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

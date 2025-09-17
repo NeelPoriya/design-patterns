@@ -1,1 +1,1 @@
-﻿ConsoleApp.Problems.LoggingFramework.Main.main();
+﻿ConsoleApp.Problems.TicTacToe.Main.main();
